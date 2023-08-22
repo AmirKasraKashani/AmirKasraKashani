@@ -1,0 +1,28 @@
+* {
+    font-size: 20px;
+}
+
+
+.header {
+    text-align: center;
+}
+
+
+.center {
+    margin: 15px auto;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+
+}
+
+.image1 {
+    flex: 1;
+}
